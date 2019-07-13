@@ -8,6 +8,7 @@ $uicideBoy$
 6LACK
 6ix9ine
 A Boogie wit da Hoodie
+A Day To Remember
 A$AP Ferg
 A$AP Mob
 A$AP Rocky
@@ -20,17 +21,29 @@ Aerosmith
 Agata Christie
 Akon
 Alicia Keys
+Alkaline Trio
+All Time Low
 Anacondaz
+Anberlin
 Anderson .Paak
+Angels and Airways
 Anne-Marie
+Anti-Flag
 Apocalyptica
 Aquarium
+Architects
 Arctic Monkeys
 Ariana Grande
+Ariya
+Attack Attack!
+Avenged Sevenfold
 Avril Lavigne
+Axel Rudi Pell
 Azizi Gibson
 Backstreet Boys
 Bad Meets Evil
+Bad Religion
+Bad Wolves
 Basta
 Beastie Boys
 Bebe Rexha
@@ -41,15 +54,21 @@ Big Russian Boss
 Big Sean
 Billie Eilish
 Billy Joel
+Billy Talent
 Black Sabbath
 Blink-182
+Bob Dylan
 Bob Marley
 Bob Marley and The Wailers
 Bon Jovi
+Boris Grebenshikov
 Boulevard Depo
+Box Car Racer
 Breaking Benjamin
+Bring Me The Horizon
 Britney Spears
 Bruno Mars
+Buddy Guy
 Busta Rhymes
 CENTR
 Calvin Harris
@@ -57,13 +76,17 @@ Camila Cabello
 Cardi B
 Chaif
 Chamillionaire
+Chelsea Green
 Chief Keef
 Chris Brown
 Christina Aguilera
 Chuck Berry
+Chunk! No, Captain Chunk!
 Civil Defense
+Close Your Eyes
 Coldplay
 Comethazine
+Crime In Stereo
 Cypress Hill
 D12
 DDT (Russia)
@@ -71,6 +94,7 @@ DJ Khaled
 DMX
 Daddy Yankee
 David Guetta
+Dean Martin
 Deep Purple
 Denzel CurryMobb Deep
 Depeche Mode
@@ -79,8 +103,11 @@ Dido
 Die Antwoord
 Disturbed
 Dr. Dre
+Dragonforce
 Drake
+Dropkick Murphys
 Dua Lipa
+Eagles
 Ed Sheeran
 Egor Kreed
 Eighteen
@@ -97,10 +124,15 @@ Far East Movement
 Fat Joe
 Feduk
 Fergie
+Fiddler`s Green 
 Fifth Harmony
+First Aid Kit
 Flo Rida
+Flogging Molly
 Florence The Machine
+Four Year Strong
 Frank Sinatra
+Franz Ferdinand
 Freddie Mercury
 French Montana
 Future
@@ -119,6 +151,7 @@ Guf
 Guns N' Roses
 Gym Class Heroes
 HUNCHO JACK
+Halestorm
 Halsey
 Helloween
 Hippie Sabotage
@@ -132,6 +165,7 @@ Ice Cube
 Iggy Azalea
 Imagine Dragons
 Inna
+Iron Maiden
 Ivan Dorn
 J. Cole
 Jaden
@@ -141,8 +175,10 @@ James Blake
 Jason Derulo
 Jay Rock
 Jay-Z
+Jefferson Airplane
 Jennifer Lopez
 Joey Badass
+John Denver
 John Legend
 Johnny Cash
 Joji
@@ -195,6 +231,7 @@ Ludacris
 Luis Fonsi
 Lumen
 Lyapis Trubetskoy
+Lynard Skynard
 M.I.A.
 MARINA
 Mac Miller
@@ -203,8 +240,11 @@ Macklemore
 Madonna
 MakSim
 Malbec and Siuzanna
+Man With A Mission 
+Manowar
 Mark Ronson
 Markul
+Marmozets
 Maroon 5
 Marshmello
 Max Korzh
@@ -222,32 +262,43 @@ Monetochka
 Morandi
 Mot
 Muse
+My Chemical Romance
 N.W.A
 N1NT3ND0
 NEL
+NOFX
 Nas
 Nat King Cole
 Nate Dogg
+Neck Deep
+Neil Young
 Nelly
 Nelly Furtado
 Nervy
+New Found Glory
 Nickelback
 Nicki Minaj
 Night Lovell
 Nirvana
+No Use For A Name
 Noggano
 Noize MC
 OBLADAET
+Oasis
 Obie Trice
 Offset
 OneRepublic
 Onyx
+Otis Rush
+Our Last Night
 Outkast
 Oxxxymiron
 P!nk
 Panic! At The Disco
 Papa Roach
 Paramore
+Parkway Drive
+Pasosh
 Pentatonix
 Pharaoh
 Pharrell Williams
@@ -264,13 +315,16 @@ Quavo
 Queen
 Rae Sremmurd
 Rag'n'Bone Man
+Rage Against the Machine
 Rammstein
+Ray Charles
 Red Hot Chili Peppers
 Redman
 Reo Cragun
 Rich The Kid
 Rick Ross
 Rihanna
+Rise Against 
 Rita Ora
 Royce Da 5'9"
 Ruki Vverh
@@ -279,10 +333,14 @@ Run-D.M.C.
 Rupert Holmes
 SAINt JHN
 SZA
+Sabaton
+Saint Asonia
+Saliva
 Sam Smith
 ScHoolboy Q
 Scarlxrd
 Scorpions
+Scott Joplin
 Scriptonite
 Sean Paul
 Selena Gomez
@@ -299,17 +357,24 @@ Ski Mask The Slump God
 Skillet
 Skylar Grey
 Slava KPSS
+Sleeping With Sirens
 Slim
 Slim Jxmmi
 Slipknot
 Smoky Mo
 Snoop Dogg
 Snoop Lion
+Snow Patrol
 Soulja Boy
+Soundgarden
 Splean
 Sting
+Stone Sour 
 Strikalo
 Stromae
+Suicide Silence
+Sum 41 
+Sunrise Avenue
 Swae Lee
 Swizz Beatz
 System of A Down
@@ -324,15 +389,22 @@ The Black Eyed Peas
 The Black Keys
 The Chainsmokers
 The Chemical Brothers
+The Cranberries 
 The Doors
+The Fray
 The Game
+The Handsome Family 
 The Hatters
 The Madden Brothers
 The Notorious B.I.G.
+The Offspring
 The Pretty Reckless
 The Prodigy
 The Rasmus
 The Rolling Stones
+The Starting Line
+The Story So Far
+The Tossers
 The Weeknd
 The White Stripes
 Thirty Seconds to Mars
@@ -346,6 +418,7 @@ Timati
 Timbaland
 Tom Jones
 Tom Walker
+Tonight Alive
 Travis Barker
 Travis Scott
 Trippie Redd
@@ -357,9 +430,12 @@ U2
 Usher
 Vanilla Ice
 Vince Staples
+Volbeat
+Walking On Cars
 Whitney Houston
 Wiley
 Will.i.am
+Within Temptation
 Wiz Khalifa
 Woodkid
 Wu-Tang Clan
@@ -368,5 +444,7 @@ XXXTentacion
 Xzibit
 Yanix
 Yelawolf
+Yellowcard
 Young Thug
 Yung Lean
+Zebrahead
