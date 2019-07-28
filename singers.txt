@@ -10,10 +10,10 @@ $uicideBoy$
 A Boogie wit da Hoodie
 A Day To Remember
 A$AP Ferg
-A$AP Mob
 A$AP Rocky
 ABBA
 AC/DC
+ASAP Mob
 ATL
 Adam Lambert
 Adele
@@ -26,7 +26,6 @@ All Time Low
 Anacondaz
 Anberlin
 Anderson .Paak
-Angels and Airways
 Anne-Marie
 Anti-Flag
 Apocalyptica
@@ -76,7 +75,6 @@ Camila Cabello
 Cardi B
 Chaif
 Chamillionaire
-Chelsea Green
 Chief Keef
 Chris Brown
 Christina Aguilera
@@ -96,7 +94,7 @@ Daddy Yankee
 David Guetta
 Dean Martin
 Deep Purple
-Denzel CurryMobb Deep
+Denzel Curry
 Depeche Mode
 Desiigner
 Dido
@@ -124,7 +122,7 @@ Far East Movement
 Fat Joe
 Feduk
 Fergie
-Fiddler`s Green 
+Fiddler`s Green
 Fifth Harmony
 First Aid Kit
 Flo Rida
@@ -138,6 +136,7 @@ French Montana
 Future
 G-Eazy
 GONE.Fludd
+GUF
 Good Charlotte
 Gorillaz
 Grace VanderWaal
@@ -147,7 +146,6 @@ Grandson
 Grechka
 Green Day
 Gucci Mane
-Guf
 Guns N' Roses
 Gym Class Heroes
 HUNCHO JACK
@@ -177,7 +175,7 @@ Jay Rock
 Jay-Z
 Jefferson Airplane
 Jennifer Lopez
-Joey Badass
+Joey Bada$$
 John Denver
 John Legend
 Johnny Cash
@@ -231,7 +229,6 @@ Ludacris
 Luis Fonsi
 Lumen
 Lyapis Trubetskoy
-Lynard Skynard
 M.I.A.
 MARINA
 Mac Miller
@@ -240,7 +237,7 @@ Macklemore
 Madonna
 MakSim
 Malbec and Siuzanna
-Man With A Mission 
+Man With A Mission
 Manowar
 Mark Ronson
 Markul
@@ -287,7 +284,7 @@ OBLADAET
 Oasis
 Obie Trice
 Offset
-OneRepublic
+One Republic
 Onyx
 Otis Rush
 Our Last Night
@@ -324,7 +321,7 @@ Reo Cragun
 Rich The Kid
 Rick Ross
 Rihanna
-Rise Against 
+Rise Against
 Rita Ora
 Royce Da 5'9"
 Ruki Vverh
@@ -359,7 +356,6 @@ Skylar Grey
 Slava KPSS
 Sleeping With Sirens
 Slim
-Slim Jxmmi
 Slipknot
 Smoky Mo
 Snoop Dogg
@@ -369,11 +365,11 @@ Soulja Boy
 Soundgarden
 Splean
 Sting
-Stone Sour 
+Stone Sour
 Strikalo
 Stromae
 Suicide Silence
-Sum 41 
+Sum 41
 Sunrise Avenue
 Swae Lee
 Swizz Beatz
@@ -389,11 +385,11 @@ The Black Eyed Peas
 The Black Keys
 The Chainsmokers
 The Chemical Brothers
-The Cranberries 
+The Cranberries
 The Doors
 The Fray
 The Game
-The Handsome Family 
+The Handsome Family
 The Hatters
 The Madden Brothers
 The Notorious B.I.G.
@@ -409,7 +405,7 @@ The Weeknd
 The White Stripes
 Thirty Seconds to Mars
 Thomas Mraz
-Thousands Foot Krutch
+Thousand Foot Krutch
 Three Days Grace
 Thutmose
 Tim McMorris
