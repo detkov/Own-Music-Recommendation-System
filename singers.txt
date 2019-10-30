@@ -16,7 +16,7 @@ $UICIDEBOY$
 6LACK
 6ix9ine
 808 State
-A Boogie wit da Hoodie
+A Boogie Wit da Hoodie
 A Day To Remember
 A Great Big World
 A Guy Called Gerald
@@ -28,7 +28,6 @@ ABBA
 ABC
 AC/DC
 AJR
-AK-47
 AKTHESAVIOR
 ATL
 AZ
@@ -572,7 +571,6 @@ Free
 French Montana
 Fugazi
 Fugees
-Fun.
 Future
 Future & Juice WRLD
 G Herbo
@@ -620,6 +618,7 @@ Gram Parsons
 Gramatik
 Grandaddy
 Grandmaster Flash
+Grateful Dead
 Green Day
 Grimes
 Grouplove
@@ -660,7 +659,7 @@ Hoodrich Pablo Juan
 Horace Silver
 Horus
 Hot Hot Heat
-House Of Pain
+House of Pain
 Howlin’ Wolf
 Hozier
 Hurts
@@ -669,15 +668,15 @@ H​an​son
 I Prevail
 IAMX
 IC3PEAK
+ILLENIUM
 INNA
 INXS
-Ian Dury And The Blockheads
+Ian Dury and the Blockheads
 Ice Cube
 Ice-T
 Iggy Azalea
 Iggy Pop
 Ike & Tina Turner
-Illenium
 Imagine Dragons
 Imany
 Immature
@@ -955,7 +954,6 @@ Lumen
 Lupe Fiasco
 Lyle Lovett
 Lynyrd Skynyrd
-L’One
 M.I.A.
 M83
 MAN WITH A MISSION
@@ -1000,6 +998,7 @@ Martha and the Vandellas
 Marty Robbins
 Marvin Gaye
 Mary J. Blige
+Mary Margaret O’Hara
 Mary Wells
 Masego
 Massive Attack
@@ -1022,6 +1021,7 @@ MellowHype
 Mercury Rev
 MercyMe
 Merle Haggard
+MetaForm
 Metallica
 Method Man
 Metro Boomin
@@ -1238,6 +1238,7 @@ Quinn XCII
 Quinten Coblentz
 R. Kelly
 R.E.M.
+RAM
 RUSSELL!
 Radical Face
 Radiohead
@@ -1550,7 +1551,6 @@ The Futureheads
 The Game
 The Go! Team
 The Go-Betweens
-The Grateful Dead
 The Gun Club
 The Handsome Family
 The Head and the Heart
@@ -1800,6 +1800,7 @@ Xzibit
 YBN Cordae
 YFN Lucci
 YG
+YK Osiris
 YNW Melly
 YONAS
 Yanix
@@ -1837,6 +1838,7 @@ blackbear
 blink-182
 dEUS
 for KING & COUNTRY
+fun.
 grandson
 i61
 iLoveMakonnen
@@ -1854,7 +1856,6 @@ will.i.am
 БИ-2
 Баста
 Борис Гребенщиков
-Бьянка
 ВИА Гра
 Валентин Стрыкало
 Валерий Меладзе
@@ -1867,10 +1868,8 @@ will.i.am
 Градусы
 Гражданская оборона
 Гречка
-Грязный Рамирес
 Грязь
 Гуф
-ДДТ
 Децл
 Джиган
 Дима Билан
@@ -1888,15 +1887,17 @@ will.i.am
 Карандаш
 Каспийский Груз
 Каста
-Кино / Kino
+Кино
 Кровосток
 Курара
 ЛСП
+Леван Горозия
 Ленинград
 Лето в городе
 Луна
 Луперкаль
 Ляпис Трубецкой
+МЫ / WE
 МакSим
 Макс Барских
 Макс Корж
@@ -1905,7 +1906,6 @@ will.i.am
 Мимо Вселенной
 Мот
 Мумий Тролль
-Мы
 Мэйти
 Наадя
 Нервы
