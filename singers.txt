@@ -28,6 +28,7 @@ ABBA
 ABC
 AC/DC
 AJR
+AK-47
 AKTHESAVIOR
 ATL
 AZ
@@ -83,6 +84,7 @@ Andy Grammer
 Andy Mineo
 Anew Revolution
 Animal Collective
+Animal ДжаZ
 Anita Baker
 Anita O’Day
 Ann Peebles
@@ -854,7 +856,6 @@ Kyuss
 L7
 LANY
 LCD Soundsystem
-LIL MORTY
 LIZER
 LL Cool J
 LMFAO
@@ -895,6 +896,7 @@ Lil Baby
 Lil Dicky
 Lil Durk
 Lil Keed
+Lil Morty
 Lil Mosey
 Lil Nas X
 Lil Peep
@@ -994,7 +996,7 @@ Marmozets
 Maroon 5
 Marshall Crenshaw
 Marshmello
-Martha and the Vandellas
+Martha Reeves & The Vandellas
 Marty Robbins
 Marvin Gaye
 Mary J. Blige
@@ -1856,6 +1858,7 @@ will.i.am
 БИ-2
 Баста
 Борис Гребенщиков
+Бьянка
 ВИА Гра
 Валентин Стрыкало
 Валерий Меладзе
@@ -1870,6 +1873,7 @@ will.i.am
 Гречка
 Грязь
 Гуф
+ДДТ
 Децл
 Джиган
 Дима Билан
