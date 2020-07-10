@@ -1,9 +1,14 @@
 # Music Analysis
+> <b>The project was completed in September 2019.</b>
 
-I wanted to understand whether it is possible to make a good recommendation system that takes into account only statistics of lyrics.  
-And for this I needed data, since I didn't see suitable open datasets.  
-So, after collecting the dataset, it was decided to open-source it on [kaggle](https://www.kaggle.com/detkov/lyrics-dataset). Also, every related work and analysis will also be there.  
+I wanted to understand if it is possible to create a good music recommendation system, which would use only the statistics of song lyrics. To do that, I decided to create a simple few layers neural network and find the data to train it.  
+Unfortunately, I did not find a suitable dataset, so I collected mine and it was the largest open dataset with a variety of metadata. Then was decided to open-source it on [kaggle](https://www.kaggle.com/detkov/lyrics-dataset). Also, every related work and analysis will also be there.  
 
-UPD: dataseton kaggle was deleted, so now you can get it [here](https://drive.google.com/drive/folders/10FOIW80rjwTsudtsB8wQhs0q9arn9_gj?usp=sharing).  
-Songs Dataset contains 253 678 songs with 10 features:  
-"Singer, Album, Song, Date, Featuring, Genre, Lyrics, Tags, Producers, Writers" 
+* `songs_dataset.csv` contains 253k+ songs (different genres, decades and so on) with 10 features:  
+`|Singer|Album|Song|Date|Featuring|Genre|Lyrics|Tags|Producers|Writers|`;
+* `parts_dataset.csv` contains songs with lyrics split into parts (verse, chorus, hook, etc.).  
+It's not that obvious due to the dirty (real-world) data.
+
+<b>UPD: dataset on [kaggle](https://www.kaggle.com/detkov/lyrics-dataset) was deleted, so now you can get it via [Google Drive](https://drive.google.com/drive/folders/10FOIW80rjwTsudtsB8wQhs0q9arn9_gj?usp=sharing).</b>
+
+> Thanks to [Ilya Liyasov](https://github.com/Literman) for helping develop the songs parser.
